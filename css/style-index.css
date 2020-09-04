@@ -78,7 +78,18 @@ a.active,a:hover{
   border-top: 1px solid black;
   border-bottom: 1px solid black;
 }
+.container {
+  width: 80%;
+  margin: 20px auto 0;
+}
 
+.about h2, p, strong{
+  text-align: center;
+}
+
+.about p, strong{
+  font-size: 20px;
+}
 /*-----------------/*Hiệu ứng chữ chạy/----------------*/
 .marquee {
   background-color: #009900;
